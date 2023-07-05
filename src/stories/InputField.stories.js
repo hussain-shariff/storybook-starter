@@ -5,17 +5,17 @@ export default {
   component : InputField
 }
 
-export const small = {
+export const Small = {
   args :{
     size : 'small'
   }
 }
-export const medium = {
+export const Medium = {
   args :{
     size : 'medium'
   }
 }
-export const large = {
+export const Large = {
   args :{
     size : 'large'
   }
