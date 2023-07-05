@@ -1,5 +1,5 @@
 function App() {
-	return <div className=" font-bold">hello</div>
+	return <div className=" min-h-screen bg-gray-600">hello</div>
 }
 
 export default App
